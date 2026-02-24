@@ -5,7 +5,7 @@ Developed an automated sales analytics dashboard that processes 150,000+ transac
 
 
 ## Video Demonstration
-https://github.com/user-attachments/assets/99c10670-b09e-4514-b122-4a8113a7f4ba
+https://github.com/user-attachments/assets/99c10670-b09e-4514-b122-4a8113a7f4b
 
 ## Business Impact
 - Automated manual reporting processes, reducing analysis time by 80%
